@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS project**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes / Docker / CI/CD with Jenkins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
